@@ -1,0 +1,35 @@
+.button {
+	background-color: white;
+	color: black;
+	border: 2px solid #e7e7e7;
+}
+.button:hover {
+	background-color: #e7e7e7;
+}
+body {
+	background-color: lightblue;
+}
+h1 {
+	color: maroon;
+	margin-left: 500px;
+
+}
+h3 {
+	color: navy;
+	max-width: 806px;
+	border-style: groove;
+}
+img {
+	height: 200px;
+	width: 200px;
+}
+#border {
+	border-style: outset;
+}
+#tab1 {
+	border-collapse: collapse;
+	border: 1px solid black;
+}
+#tab2 {
+	border: 1px solid black;
+}
